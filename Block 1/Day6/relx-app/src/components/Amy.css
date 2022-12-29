@@ -1,0 +1,36 @@
+.Amy {
+  width: 366px;
+  height: 374px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0px 15px 35px rgba(0, 0, 0, 0.25);
+  align-items: center;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 30px;
+}
+.amy {
+  width: 300px;
+  height: 303px;
+}
+.photo {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+.star {
+  height: 80px;
+  display: flex;
+  align-items: center;
+}
+.photo-b {
+  border-radius: 100px;
+  overflow: hidden;
+  width: 56px;
+  height: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

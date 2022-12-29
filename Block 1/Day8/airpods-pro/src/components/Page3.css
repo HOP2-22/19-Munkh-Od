@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@600&display=swap");
+
+.Page3 {
+  height: 100vh;
+  width: 100vw;
+}
+
+.Page3Photo1 {
+  position: absolute;
+  background-image: url("../../public/Images/brooke-cagle-JBwcenOuRCg-unsplash\ \(1\)\ 1.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 567px;
+  width: 562px;
+  margin-left: -5px;
+  margin-top: 1090px;
+}
+
+.Page3Text1 {
+  position: absolute;
+  height: 120px;
+  width: 398px;
+  margin-left: 700px;
+  margin-top: 1174px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 60px;
+  display: flex;
+  align-items: center;
+  color: black;
+}
+
+.Page3Text2 {
+  position: absolute;
+  height: 145px;
+  width: 465px;
+  margin-left: 700px;
+  margin-top: 1324px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  color: black;
+}
+
+.Page3Text3 {
+  position: absolute;
+  height: 28px;
+  width: 87px;
+  margin-left: 702px;
+  margin-top: 1509px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  text-decoration-line: underline;
+  color: #4DA0FD;
+}

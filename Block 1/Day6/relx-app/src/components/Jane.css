@@ -1,0 +1,45 @@
+.Jane {
+  width: 363px;
+  height: 440px;
+  border-radius: 30px;
+  overflow: hidden;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  display: flex;
+  flex-direction: column;
+  color: #25313c;
+  align-items: center;
+  background-color: white;
+}
+
+.Photo3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+  color: #6d7d8b;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.photo-bb {
+  height: 44.51px;
+  width: 44.51px;
+  overflow: hidden;
+  border-radius: 100px;
+}
+
+.second {
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}

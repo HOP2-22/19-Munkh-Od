@@ -1,0 +1,43 @@
+body{
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Alna {
+    border:none;
+    height: 40px;
+    width: 350px;
+    border-radius: 10px;
+    background-color: rgb(202, 237, 249);
+}
+
+.Zodno {
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 60px;
+    margin-left: 30px;
+    background-color: rgb(202, 237, 249);
+    color: rgb(95, 106, 255);
+}
+
+.listContainer { 
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(202, 237, 249);
+    margin-top: 20px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 450px;
+    height: 35px;
+}
+
+.Hutgalna {
+    background-color: rgb(202, 237, 249);
+    border: none;
+}
+  
