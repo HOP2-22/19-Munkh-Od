@@ -1,0 +1,33 @@
+.default_score,
+.default_time {
+  text-align: center;
+  padding: 12px;
+  font-size: 22px;
+  font-weight: 500;
+  color: white;
+}
+.line {
+  display: flex;
+  justify-content: center;
+}
+.start-button {
+  color: white;
+  font-size: xx-large;
+  width: 320px;
+  height: 96px;
+  margin-top: 780px;
+  background-color: #00cea9;
+  border-radius: 64px;
+}
+
+.playAgain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.end-game {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+}
